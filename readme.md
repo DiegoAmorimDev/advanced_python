@@ -116,6 +116,3 @@ Para criar uma nova branch e trabalhar nela, siga as etapas abaixo:
 
 ---
 
-### Contato
-
-Para dúvidas ou sugestões, entre em contato pelo [seu email ou link para redes sociais].
